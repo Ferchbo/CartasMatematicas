@@ -1,0 +1,17 @@
+C:\Users\Ferchbo\source\repos\CCarpeta\CartasMatematicas\CartasMatematicas\bin\Debug\net7.0-windows\CartasMatematicas.exe
+C:\Users\Ferchbo\source\repos\CCarpeta\CartasMatematicas\CartasMatematicas\bin\Debug\net7.0-windows\CartasMatematicas.deps.json
+C:\Users\Ferchbo\source\repos\CCarpeta\CartasMatematicas\CartasMatematicas\bin\Debug\net7.0-windows\CartasMatematicas.runtimeconfig.json
+C:\Users\Ferchbo\source\repos\CCarpeta\CartasMatematicas\CartasMatematicas\bin\Debug\net7.0-windows\CartasMatematicas.dll
+C:\Users\Ferchbo\source\repos\CCarpeta\CartasMatematicas\CartasMatematicas\bin\Debug\net7.0-windows\CartasMatematicas.pdb
+C:\Users\Ferchbo\source\repos\CCarpeta\CartasMatematicas\CartasMatematicas\obj\Debug\net7.0-windows\CartasMatematicas.csproj.AssemblyReference.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\CartasMatematicas\CartasMatematicas\obj\Debug\net7.0-windows\CartasMatematicas.Form1.resources
+C:\Users\Ferchbo\source\repos\CCarpeta\CartasMatematicas\CartasMatematicas\obj\Debug\net7.0-windows\CartasMatematicas.csproj.GenerateResource.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\CartasMatematicas\CartasMatematicas\obj\Debug\net7.0-windows\CartasMatematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferchbo\source\repos\CCarpeta\CartasMatematicas\CartasMatematicas\obj\Debug\net7.0-windows\CartasMatematicas.AssemblyInfoInputs.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\CartasMatematicas\CartasMatematicas\obj\Debug\net7.0-windows\CartasMatematicas.AssemblyInfo.cs
+C:\Users\Ferchbo\source\repos\CCarpeta\CartasMatematicas\CartasMatematicas\obj\Debug\net7.0-windows\CartasMatematicas.csproj.CoreCompileInputs.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\CartasMatematicas\CartasMatematicas\obj\Debug\net7.0-windows\CartasMatematicas.dll
+C:\Users\Ferchbo\source\repos\CCarpeta\CartasMatematicas\CartasMatematicas\obj\Debug\net7.0-windows\refint\CartasMatematicas.dll
+C:\Users\Ferchbo\source\repos\CCarpeta\CartasMatematicas\CartasMatematicas\obj\Debug\net7.0-windows\CartasMatematicas.pdb
+C:\Users\Ferchbo\source\repos\CCarpeta\CartasMatematicas\CartasMatematicas\obj\Debug\net7.0-windows\CartasMatematicas.genruntimeconfig.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\CartasMatematicas\CartasMatematicas\obj\Debug\net7.0-windows\ref\CartasMatematicas.dll
